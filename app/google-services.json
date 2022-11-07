@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147256764391",
+    "project_id": "sangbu-sangjo",
+    "storage_bucket": "sangbu-sangjo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147256764391:android:d3105d4789dad6fefc7f42",
+        "android_client_info": {
+          "package_name": "com.penelope.sangbusangjo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147256764391-a4da03j77gjopcek9kdstle8o6aafjb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQ_ckQYmZ8RqpciigGhAgy9L0juAycDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147256764391-a4da03j77gjopcek9kdstle8o6aafjb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

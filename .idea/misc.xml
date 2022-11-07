@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/drawable-v24/comment_detail_background.xml" value="0.1085" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/drawable-v24/comment_simple_background.xml" value="0.278" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/drawable/column.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/drawable/edit_background.xml" value="0.35625" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/drawable/ic_person.xml" value="0.34882533197139937" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/drawable/title_background.xml" value="0.1" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/activity_auth.xml" value="0.1" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/activity_home.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/activity_wakeup.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/alarm_item.xml" value="0.33" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/bottom_button.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/detailed_comment_item.xml" value="0.33" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_add_alarm.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_add_friend.xml" value="0.33" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_alarms.xml" value="0.33" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_chat_list.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_chat_room.xml" value="0.33" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_chats.xml" value="0.1" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_chatting.xml" value="0.25" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_friends.xml" value="0.33" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_select_friend.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_select_sound.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_sign_in.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_sign_up.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/fragment_weather.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/friend_item.xml" value="0.25" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/last_chat_item.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/layout/simple_comment_item.xml" value="0.25" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/menu/menu_add_alarm.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/menu/menu_alarms.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/menu/menu_home.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/menu/menu_select_sound.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/menu/menu_tab.xml" value="0.3359375" />
+        <entry key="..\:/Users/cool/AndroidStudioProjects/SangbuSangjo/app/src/main/res/menu/menu_weather.xml" value="0.3359375" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable-v24/comment_detail_background.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable-v24/comment_simple_background.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable/edit_background.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable/ic_add.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable/ic_chatting.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable/ic_check.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable/ic_location.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable/ic_person.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable/ic_right.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable/ic_weather.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/drawable/rectangle.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/activity_auth.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/activity_home.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/activity_wakeup.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/alarm_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/bottom_button.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/detailed_comment_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_add_alarm.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_add_friend.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_alarms.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_chat_list.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_chat_room.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_chatting.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_friends.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_select_friend.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_select_sound.xml" value="0.1" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_sign_in.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_sign_up.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/fragment_weather.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/friend_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/last_comment_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/layout/simple_comment_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/menu/menu_add_alarm.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/menu/menu_alarms.xml" value="0.1" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/menu/menu_home.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/menu/menu_select_sound.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/menu/menu_weather.xml" value="0.36614583333333334" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1865" />
+        <entry key="..\:/kk/SangbuSangjo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1865" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

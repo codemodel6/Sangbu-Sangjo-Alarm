@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".ui.home.alarm.selectsound.SelectSoundFragment">
+
+    <RadioGroup
+        android:id="@+id/radioGroupSound"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/radioButtonSound1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1번사운드 (기본알림음)" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#AAA" />
+
+        <RadioButton
+            android:id="@+id/radioButtonSound2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2번사운드 (Space 벨)" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#AAA" />
+
+        <RadioButton
+            android:id="@+id/radioButtonSound3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3번사운드 (잔잔한 벨)" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#AAA" />
+
+        <RadioButton
+            android:id="@+id/radioButtonSound4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4번사운드 (화려한 벨)" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#AAA" />
+
+        <RadioButton
+            android:id="@+id/radioButtonSound5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5번사운드 (딸랑이)" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#AAA" />
+
+    </RadioGroup>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

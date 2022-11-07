@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_tab"
+    app:startDestination="@id/alarmsFragment">
+
+    <fragment
+        android:id="@+id/alarmsFragment"
+        android:name="com.penelope.sangbusangjo.ui.home.alarm.alarms.AlarmsFragment"
+        android:label="알람"
+        tools:layout="@layout/fragment_alarms">
+        <action
+            android:id="@+id/action_alarmsFragment_to_chattingFragment"
+            app:destination="@id/chattingFragment" />
+        <action
+            android:id="@+id/action_alarmsFragment_to_addAlarmFragment"
+            app:destination="@id/addAlarmFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/chattingFragment"
+        android:name="com.penelope.sangbusangjo.ui.home.chatting.ChattingFragment"
+        android:label=" "
+        tools:layout="@layout/fragment_chatting">
+        <action
+            android:id="@+id/action_chattingFragment_to_weatherFragment"
+            app:destination="@id/weatherFragment" />
+        <action
+            android:id="@+id/action_chattingFragment_to_addFriendFragment"
+            app:destination="@id/addFriendFragment" />
+        <action
+            android:id="@+id/action_chattingFragment_to_chatRoomFragment"
+            app:destination="@id/chatRoomFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/weatherFragment"
+        android:name="com.penelope.sangbusangjo.ui.home.weather.WeatherFragment"
+        android:label=" "
+        tools:layout="@layout/fragment_weather" />
+    <fragment
+        android:id="@+id/addAlarmFragment"
+        android:name="com.penelope.sangbusangjo.ui.home.alarm.addalarm.AddAlarmFragment"
+        android:label=" "
+        tools:layout="@layout/fragment_add_alarm" >
+        <action
+            android:id="@+id/action_addAlarmFragment_to_selectFriendFragment"
+            app:destination="@id/selectFriendFragment" />
+        <action
+            android:id="@+id/action_addAlarmFragment_to_selectSoundFragment"
+            app:destination="@id/selectSoundFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addFriendFragment"
+        android:name="com.penelope.sangbusangjo.ui.home.chatting.addfriend.AddFriendFragment"
+        android:label=" "
+        tools:layout="@layout/fragment_add_friend" />
+    <fragment
+        android:id="@+id/chatRoomFragment"
+        android:name="com.penelope.sangbusangjo.ui.home.chatting.chatroom.ChatRoomFragment"
+        android:label=" "
+        tools:layout="@layout/fragment_chat_room" >
+        <argument
+            android:name="chat"
+            app:argType="com.penelope.sangbusangjo.data.chat.Chat" />
+    </fragment>
+    <fragment
+        android:id="@+id/selectFriendFragment"
+        android:name="com.penelope.sangbusangjo.ui.home.alarm.selectfriend.SelectFriendFragment"
+        android:label=" "
+        tools:layout="@layout/fragment_select_friend" />
+    <fragment
+        android:id="@+id/selectSoundFragment"
+        android:name="com.penelope.sangbusangjo.ui.home.alarm.selectsound.SelectSoundFragment"
+        android:label="설정된 벨소리"
+        tools:layout="@layout/fragment_select_sound">
+        <argument
+            android:name="sound"
+            app:argType="integer" />
+    </fragment>
+</navigation>
